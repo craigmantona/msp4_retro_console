@@ -5,33 +5,22 @@
                 All Products
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="all-products-link">
-                <a href="" class="dropdown-item">By Price</a>
-                <a href="" class="dropdown-item ">By Rating</a>
-                <a href="" class="dropdown-item ">By Category</a>
+                <a href="{% url 'products' %}?sort=price&direction=asc" class="dropdown-item">By Price</a>
+                <a href="{% url 'products' %}?sort=rating&direction=desc" class="dropdown-item ">By Rating</a>
+                <a href="{% url 'products' %}?sort=category&direction=asc" class="dropdown-item ">By Category</a>
                 <a href="{% url 'products' %}" class="dropdown-item">All Products</a>
             </div>
         </li>
 
         <li class="nav-item dropdown">
             <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="console-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Consoles
+                Equipment
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="console-link">
-                <a href="{% url 'products' %}?category=console,nintendo" class="dropdown-item">Nintendo</a>
-                <a href="{% url 'products' %}?category=sega" class="dropdown-item">Sega</a>
-                <a href="{% url 'products' %}?category=sony" class="dropdown-item">Sony</a>
-                <a href="{% url 'products' %}?category=nintendo,sega,sony" class="dropdown-item">All Consoles</a>
-            </div>
-        </li>
-
-        <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="controller-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Controllers
-            </a>
-            <div class="dropdown-menu border-0" aria-labelledby="controller-link">
-                <a href="{% url 'products' %}?category=nintendo" class="dropdown-item">Nintendo</a>
-                <a href="{% url 'products' %}?category=sega" class="dropdown-item">Sega</a>
-                <a href="{% url 'products' %}?category=nintendo,sega,sony,microsoft" class="dropdown-item">All Controllers</a>
+                <a href="{% url 'products' %}?category=console" class="dropdown-item">Consoles</a>
+                <a href="{% url 'products' %}?category=handheld" class="dropdown-item">Handheld</a>
+                <a href="{% url 'products' %}?category=controller" class="dropdown-item">Controllers</a>
+                <a href="{% url 'products' %}?category=console,handheld,controller" class="dropdown-item">All Items</a>
             </div>
         </li>
 

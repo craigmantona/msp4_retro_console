@@ -106,3 +106,84 @@ Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` f
 ---
 
 Happy coding!
+
+IMAGES
+
+NES image main screen - Photo by Tomasz Filipek from Pexels - https://www.pexels.com/photo/gray-nintendo-nes-console-and-controllers-1637439/ 
+
+NES product - Image by <a href="https://pixabay.com/users/robinle-2695228/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2649705">RobinLe</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2649705">Pixabay</a>
+
+controllers image - Photo by <a href="https://unsplash.com/@kike_borland?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Enrique Guzmán Egas</a> on <a href="https://unsplash.com/s/photos/nintendo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+SNES controller - Photo by <a href="https://unsplash.com/@pf91_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick</a> on <a href="https://unsplash.com/s/photos/nintendo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Gameboy - Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hello I'm Nik</a> on <a href="https://unsplash.com/s/photos/nintendo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+NES controller - Photo by <a href="https://unsplash.com/@ravipalwe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ravi Palwe</a> on <a href="https://unsplash.com/s/photos/nintendo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+N64 - Photo by <a href="https://unsplash.com/@patsn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pat Moin</a> on <a href="https://unsplash.com/s/photos/n64?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Gamegear - Photo by <a href="https://unsplash.com/@benofthenorth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ben Griffiths</a> on <a href="https://unsplash.com/s/photos/sega?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Master System II - Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hello I'm Nik</a> on <a href="https://unsplash.com/s/photos/sega?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Megadrive - Photo by <a href="https://unsplash.com/@docs1231?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joshua Doherty</a> on <a href="https://unsplash.com/s/photos/sega?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Dreamcast - Photo by <a href="https://unsplash.com/@usualmorals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Taylor R</a> on <a href="https://unsplash.com/s/photos/sega?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+PS1 - Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hello I'm Nik</a> on <a href="https://unsplash.com/s/photos/playstation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+PS controller - Photo by <a href="https://unsplash.com/@loravisuals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">lilzidesigns</a> on <a href="https://unsplash.com/s/photos/playstation-2?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+PS2 - Photo by <a href="https://unsplash.com/@chilinik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nikita Kostrykin</a> on <a href="https://unsplash.com/s/photos/playstation-2?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+XBOX controller - Photo by <a href="https://unsplash.com/@christaljaard?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Taljaard</a> on <a href="https://unsplash.com/s/photos/xbox?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+SNES - Photo by <a href="https://unsplash.com/@korie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Korie Cull</a> on <a href="https://unsplash.com/s/photos/snes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+SNES controller main page - Photo by <a href="https://unsplash.com/@derekstory?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Derek Story</a> on <a href="https://unsplash.com/s/photos/retro-gaming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Gamecube - Photo by <a href="https://unsplash.com/@north_of_rapture?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Paweł Durczok</a> on <a href="https://unsplash.com/s/photos/nintendo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Mario home page - <a href="https://pixabay.com/photos/mario-figure-game-nintendo-super-1558068/"></a>
+
+SNES alt image - <a href="https://pixabay.com/photos/video-game-console-video-game-play-2202592/">SNES image</a>
+
+Megadrive alt image - <a href="https://pixabay.com/photos/video-game-console-video-game-play-2202625/">Megadrive image</a>
+
+Playstation alt image - <a href="https://pixabay.com/photos/video-game-console-video-game-play-2202613/">PS1 image</a>
+
+Playstation alt image 2 - <a href="https://www.pexels.com/photo/photo-of-play-station-game-console-and-remote-controller-4219883/">PS1 image 2</a>
+Photo by Karolina Grabowska from Pexels
+
+Gamegear alt image - <a href="https://pixabay.com/photos/video-game-console-video-game-play-2202621/">Gamegear image</a>
+
+Saturn alt image - <a href="https://pixabay.com/photos/video-game-console-video-game-play-2202628/">Saturn image</a>
+
+Master System alt image - <a href="https://pixabay.com/photos/video-game-console-video-game-play-2202628/">Master System image</a>
+
+
+
+
+  
+  
+
+Product descriptions
+
+SNES - from Wikipedia - https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System
+NES - from Wikipedia - https://en.wikipedia.org/wiki/Nintendo_Entertainment_System
+N64 - from Wikipedia - https://en.wikipedia.org/wiki/Nintendo_64
+Mastersystem - from Wikipedia - https://en.wikipedia.org/wiki/Master_System
+Megadrive - from Wikipedia - https://en.wikipedia.org/wiki/Sega_Genesis
+Dreamcast - from Wikipedia - https://en.wikipedia.org/wiki/Dreamcast
+Playstation 1 - from Wikipedia - https://en.wikipedia.org/wiki/PlayStation_(console)
+Playstation 2 - from Wikipedia - https://en.wikipedia.org/wiki/PlayStation_2
+Gameboy - from Wikipedia - https://en.wikipedia.org/wiki/Game_Boy
+Gamegear - from Wikipedia - https://en.wikipedia.org/wiki/Game_Gear
+Gamecube - from wikipedia - https://en.wikipedia.org/wiki/GameCube
+SNES controller - from wikipedia - https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System#Peripherals
+NES controller - from wikipedia - https://en.wikipedia.org/wiki/Nintendo_Entertainment_System#Controllers
+Playstation controller - from wikipedia - https://en.wikipedia.org/wiki/PlayStation_controller
+X-Box controller - from wikipedia - https://en.wikipedia.org/wiki/Xbox_controller
+Sega Saturn - from wikipedia - https://en.wikipedia.org/wiki/Sega_Saturn
+
