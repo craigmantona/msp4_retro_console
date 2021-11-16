@@ -165,9 +165,9 @@ Master System alt image - <a href="https://pixabay.com/photos/video-game-console
 
 
 
-  
-  
 
+  
+  
 Product descriptions
 
 SNES - from Wikipedia - https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System
