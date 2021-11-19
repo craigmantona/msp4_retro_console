@@ -162,7 +162,9 @@ Saturn alt image - <a href="https://pixabay.com/photos/video-game-console-video-
 
 Master System alt image - <a href="https://pixabay.com/photos/video-game-console-video-game-play-2202628/">Master System image</a>
 
+mario video - Video by Antonio Prado from Pexels - https://www.pexels.com/search/videos/super%20mario%20bros/
 
+mp video - Video by cottonbro from Pexels - https://www.pexels.com/video/vintage-young-teenager-retro-4842506/
 
 
 
