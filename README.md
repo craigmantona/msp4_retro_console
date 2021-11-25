@@ -189,3 +189,8 @@ Playstation controller - from wikipedia - https://en.wikipedia.org/wiki/PlayStat
 X-Box controller - from wikipedia - https://en.wikipedia.org/wiki/Xbox_controller
 Sega Saturn - from wikipedia - https://en.wikipedia.org/wiki/Sega_Saturn
 
+
+
+Arrow button to return to top was not working.
+
+Checked my code and I was missing a $ at the start of one of the lines. Once I changed this it started working.
