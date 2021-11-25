@@ -27,6 +27,14 @@ body {
     width: fit-content;
 }
 
+.text-red {
+    color: red;
+}
+
+.text-blue {
+    color: blue;
+}
+
 .shop-now-button {
     background: black;
     color: white;
