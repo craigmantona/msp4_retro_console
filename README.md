@@ -162,9 +162,10 @@ Saturn alt image - <a href="https://pixabay.com/photos/video-game-console-video-
 
 Master System alt image - <a href="https://pixabay.com/photos/video-game-console-video-game-play-2202628/">Master System image</a>
 
-mario video - Video by Antonio Prado from Pexels - https://www.pexels.com/search/videos/super%20mario%20bros/
-
-mp video - Video by cottonbro from Pexels - https://www.pexels.com/video/vintage-young-teenager-retro-4842506/
+Nintendo logo - <a href="https://wallpaperaccess.com/nintendo-logo"></a>
+Sega logo - <a href="https://wallpaperaccess.com/sega-logo"></a>
+Sony logo - <a href="https://wallpaperaccess.com/sony-playstation"></a>
+Microsoft logo - <a href="https://wallpaperaccess.com/original-xbox"></a>
 
 
 

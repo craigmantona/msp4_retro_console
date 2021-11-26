@@ -1,6 +1,6 @@
 <div class="collapse navbar-collapse" id="main-nav">
     <ul class="navbar-nav w-auto mx-auto">
-        <li class="nav-item d-md-none d-block">
+        <li class="nav-item dropdown">
             <a class="logo-font font-weight-bold nav-link text-black mr-5" href="{% url 'home' %}" id="all-products-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Home
             </a>
@@ -34,14 +34,14 @@
         </li>
 
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="specials-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Special Offers
+            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="console-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Manufacturer
             </a>
-            <div class="dropdown-menu border-0" aria-labelledby="specials-link">
-                <a href="{% url 'products' %}?category=new_arrivals" class="dropdown-item">New Arrivals</a>
-                <a href="{% url 'products' %}?category=deals" class="dropdown-item">Deals</a>
-                <a href="{% url 'products' %}?category=clearance" class="dropdown-item">Clearance</a>
-                <a href="{% url 'products' %}?category=new_arrivals,deals,clearance" class="dropdown-item">All Specials</a>
+            <div class="dropdown-menu border-0" aria-labelledby="console-link">
+                <a href="{% url 'products' %}?manufacturer=nintendo" class="dropdown-item">Nintendo</a>
+                <a href="{% url 'products' %}?manufacturer=sega" class="dropdown-item">Sega</a>
+                <a href="{% url 'products' %}?manufacturer=sony" class="dropdown-item">Sony</a>
+                <a href="{% url 'products' %}?manufacturer=microsoft" class="dropdown-item">Microsoft</a>
             </div>
         </li>
 
