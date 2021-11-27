@@ -11,10 +11,10 @@
                 All Products
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="all-products-link">
-                <a href="{% url 'products' %}?sort=price&direction=asc" class="dropdown-item">By Price</a>
-                <a href="{% url 'products' %}?sort=rating&direction=desc" class="dropdown-item ">By Rating</a>
-                <a href="{% url 'products' %}?sort=category&direction=asc" class="dropdown-item ">By Category</a>
-                <a href="{% url 'products' %}" class="dropdown-item">All Products</a>
+                <a href="{% url 'products' %}?sort=price&direction=asc" class="dropdown-item text-blue">By Price</a>
+                <a href="{% url 'products' %}?sort=rating&direction=desc" class="dropdown-item text-blue">By Rating</a>
+                <a href="{% url 'products' %}?sort=category&direction=asc" class="dropdown-item text-blue">By Category</a>
+                <a href="{% url 'products' %}" class="dropdown-item text-blue">All Products</a>
             </div>
         </li>
 
@@ -23,10 +23,10 @@
                 Equipment
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="console-link">
-                <a href="{% url 'products' %}?category=console" class="dropdown-item">Consoles</a>
-                <a href="{% url 'products' %}?category=handheld" class="dropdown-item">Handheld</a>
-                <a href="{% url 'products' %}?category=controller" class="dropdown-item">Controllers</a>
-                <a href="{% url 'products' %}?category=console,handheld,controller" class="dropdown-item">All Items</a>
+                <a href="{% url 'products' %}?category=console" class="dropdown-item text-red">Consoles</a>
+                <a href="{% url 'products' %}?category=handheld" class="dropdown-item text-red">Handheld</a>
+                <a href="{% url 'products' %}?category=controller" class="dropdown-item text-red">Controllers</a>
+                <a href="{% url 'products' %}?category=console,handheld,controller" class="dropdown-item text-red">All Items</a>
             </div>
         </li>
 
@@ -35,10 +35,22 @@
                 Manufacturer
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="console-link">
-                <a href="{% url 'products' %}?manufacturer=nintendo" class="dropdown-item">Nintendo</a>
-                <a href="{% url 'products' %}?manufacturer=sega" class="dropdown-item">Sega</a>
-                <a href="{% url 'products' %}?manufacturer=sony" class="dropdown-item">Sony</a>
-                <a href="{% url 'products' %}?manufacturer=microsoft" class="dropdown-item">Microsoft</a>
+                <a href="{% url 'products' %}?manufacturer=nintendo" class="dropdown-item text-blue">Nintendo</a>
+                <a href="{% url 'products' %}?manufacturer=sega" class="dropdown-item text-blue">Sega</a>
+                <a href="{% url 'products' %}?manufacturer=sony" class="dropdown-item text-blue">Sony</a>
+                <a href="{% url 'products' %}?manufacturer=microsoft" class="dropdown-item text-blue">Microsoft</a>
+            </div>
+        </li>
+
+        <li class="nav-item dropdown">
+            <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="console-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Year of Release
+            </a>
+            <div class="dropdown-menu border-0" aria-labelledby="console-link">
+                <a href="{% url 'products' %}?year=1980s" class="dropdown-item text-red">1980's</a>
+                <a href="{% url 'products' %}?year=1990s" class="dropdown-item text-red">1990's</a>
+                <a href="{% url 'products' %}?year=2000s" class="dropdown-item text-red">2000's</a>
+                <a href="{% url 'products' %}?year=2010s" class="dropdown-item text-red">2010's</a>
             </div>
         </li>
 

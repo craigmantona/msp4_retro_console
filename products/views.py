@@ -4,7 +4,7 @@ from django.contrib.auth.decorators import login_required
 from django.db.models import Q
 from django.db.models.functions import Lower
 
-from .models import Product, Category, Manufacturer
+from .models import Product, Category, Manufacturer, Year
 from .forms import ProductForm
 
 # Create your views here.
@@ -17,6 +17,7 @@ def all_products(request):
     query = None
     categories = None
     manufacturer = None
+    year = None
     sort = None
     direction = None
 
@@ -44,6 +45,11 @@ def all_products(request):
             manufacturers = request.GET['manufacturer'].split(',')
             products = products.filter(manufacturer__name__in=manufacturers)
             manufacturers = Manufacturer.objects.filter(name__in=manufacturers)
+
+        if 'year' in request.GET:
+            years = request.GET['year'].split(',')
+            products = products.filter(year__name__in=years)
+            years = Year.objects.filter(name__in=years)
 
         if 'q' in request.GET:
             query = request.GET['q']
