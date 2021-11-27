@@ -1,0 +1,1 @@
+web: gunicorn retro_console.wsgi:application
