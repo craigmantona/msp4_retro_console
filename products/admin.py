@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Product, Category, Manufacturer
+from .models import Product, Category, Manufacturer, Year
 
 # Register your models here.
 
@@ -27,6 +27,13 @@ class ManufacturerAdmin(admin.ModelAdmin):
         'name',
     )
 
+class YearAdmin(admin.ModelAdmin):
+    list_display = (
+        'friendly_name',
+        'name',
+    )
+
 admin.site.register(Product, ProductAdmin)
 admin.site.register(Category, CategoryAdmin)
 admin.site.register(Manufacturer, ManufacturerAdmin)
+admin.site.register(Year, YearAdmin)

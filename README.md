@@ -117,11 +117,11 @@ controllers image - Photo by <a href="https://unsplash.com/@kike_borland?utm_sou
   
 SNES controller - Photo by <a href="https://unsplash.com/@pf91_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick</a> on <a href="https://unsplash.com/s/photos/nintendo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-Gameboy - Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hello I'm Nik</a> on <a href="https://unsplash.com/s/photos/nintendo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Gameboy - Photo by <a href="https://pixabay.com/images/id-3912103"></a>
   
-NES controller - Photo by <a href="https://unsplash.com/@ravipalwe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ravi Palwe</a> on <a href="https://unsplash.com/s/photos/nintendo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+NES controller - Photo by <a href="https://pixabay.com/vectors/controller-nintendo-gamer-nes-play-5747494/"></a> 
   
-N64 - Photo by <a href="https://unsplash.com/@patsn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pat Moin</a> on <a href="https://unsplash.com/s/photos/n64?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+N64 - Photo by Image by <a href="https://pixabay.com/users/wikimediaimages-1185597/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2202594">WikimediaImages</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2202594">Pixabay</a>
   
 Gamegear - Photo by <a href="https://unsplash.com/@benofthenorth?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ben Griffiths</a> on <a href="https://unsplash.com/s/photos/sega?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
@@ -133,7 +133,7 @@ Dreamcast - Photo by <a href="https://unsplash.com/@usualmorals?utm_source=unspl
   
 PS1 - Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Hello I'm Nik</a> on <a href="https://unsplash.com/s/photos/playstation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-PS controller - Photo by <a href="https://unsplash.com/@loravisuals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">lilzidesigns</a> on <a href="https://unsplash.com/s/photos/playstation-2?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+PS controller - Photo by https://pixabay.com/illustrations/controller-playstation-sony-vintage-5048156/
   
 PS2 - Photo by <a href="https://unsplash.com/@chilinik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nikita Kostrykin</a> on <a href="https://unsplash.com/s/photos/playstation-2?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
@@ -162,10 +162,6 @@ Saturn alt image - <a href="https://pixabay.com/photos/video-game-console-video-
 
 Master System alt image - <a href="https://pixabay.com/photos/video-game-console-video-game-play-2202628/">Master System image</a>
 
-Nintendo logo - <a href="https://wallpaperaccess.com/nintendo-logo"></a>
-Sega logo - <a href="https://wallpaperaccess.com/sega-logo"></a>
-Sony logo - <a href="https://wallpaperaccess.com/sony-playstation"></a>
-Microsoft logo - <a href="https://wallpaperaccess.com/original-xbox"></a>
 
 
 

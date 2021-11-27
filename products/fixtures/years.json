@@ -1,0 +1,42 @@
+[
+	{
+		"pk": 1,
+		"model": "products.year",
+		"fields": {
+			"name": "1980s",
+			"friendly_name": "1980s"
+		}
+	},
+	{
+		"pk": 2,
+		"model": "products.year",
+		"fields": {
+			"name": "1990s",
+			"friendly_name": "1990s"
+		}
+	},
+	{
+		"pk": 3,
+		"model": "products.year",
+		"fields": {
+			"name": "2000s",
+			"friendly_name": "2000s"
+		}
+	},
+	{
+		"pk": 4,
+		"model": "products.year",
+		"fields": {
+			"name": "2010s",
+			"friendly_name": "2010s"
+		}
+	},
+    {
+		"pk": 5,
+		"model": "products.year",
+		"fields": {
+			"name": "2020s",
+			"friendly_name": "2020s"
+		}
+	}
+]

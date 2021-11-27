@@ -3,11 +3,16 @@ html {
 }
 
 body {
-    background: url('/media/mario-homepage.jpg') no-repeat center center fixed;
+    background: url('/media/mario-luigi_hp.jpg') no-repeat center center fixed;
     background-size: cover;
-    height: calc(130vh - 164px);
+    height: calc(110vh - 164px);
     color: #555;
     font-family: 'Lato', sans-serif;
+}
+
+.index-text {
+    background: white;
+    opacity: 0.7;
 }
 
 /* from Bulma */
