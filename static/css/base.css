@@ -35,8 +35,14 @@ body {
     color: blue;
 }
 
+.home-text {
+    background-color: red;
+    opacity: 0.9;
+
+}
+
 .shop-now-button {
-    background: black;
+    background: red;
     color: white;
     min-width: 260px;
 }
