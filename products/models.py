@@ -30,7 +30,6 @@ class Manufacturer(models.Model):
     def get_friendly_name(self):
         return self.friendly_name
 
-
 class Year(models.Model):
 
     class Meta:
